@@ -2,7 +2,8 @@
 - 👀 I’m interested in ...learning new things
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...projects related to webD
-- 📫 How to reach me ...
+- 📫 How to reach me ...harleen9355@gmail.com
+  
 
 
 <!---
