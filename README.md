@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👩‍💻 Harleen Kaur
 
-<!--
-**harleenkaur2003/harleenkaur2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I am a passionate developer eager to build meaningful software solutions that positively impact people.  
+Currently pursuing B.Tech in Information Technology from Delhi Technological University (Batch of 2026).  
+I enjoy working on frontend development, accessibility, and open-source contributions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Open Source Contributions
+
+- 🎶 **MusicBlocks – Sugar Labs**  
+  Contributed to improve accessibility by updating the `<amp-img>` tag with a proper `alt` attribute for screen reader support.  
+  [Pull Request #4645](https://github.com/sugarlabs/musicblocks/pull/4645)
+
+- 📂 **Other Open Source Efforts:**  
+  [Code4GovTech Open Source Efforts Repo](https://github.com/harleenkaur2003/code4govtech-open-source-effort)
+
+---
+
+## 🛠 Skills
+
+- HTML, CSS, JavaScript, TypeScript
+- Python
+- Git & GitHub Open Source Workflow
+- Frontend Development
+- Accessibility Standards
+
+---
+
+## 📫 Connect with Me
+
+- [GitHub Profile](https://github.com/harleenkaur2003)
+- [LinkedIn Profile](www.linkedin.com/in/harleen-kaur-8b7887265) 
+
+---
