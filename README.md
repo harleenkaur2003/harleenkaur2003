@@ -27,6 +27,6 @@ I enjoy working on frontend development, accessibility, and open-source contribu
 ## 📫 Connect with Me
 
 - [GitHub Profile](https://github.com/harleenkaur2003)
-- [LinkedIn Profile](www.linkedin.com/in/harleen-kaur-8b7887265) 
+- [LinkedIn Profile](https://www.linkedin.com/in/harleen-kaur-8b7887265) 
 
 ---
