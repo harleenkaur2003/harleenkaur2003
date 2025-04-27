@@ -12,9 +12,6 @@ I enjoy working on frontend development, accessibility, and open-source contribu
   Contributed to improve accessibility by updating the `<amp-img>` tag with a proper `alt` attribute for screen reader support.  
   [Pull Request #4645](https://github.com/sugarlabs/musicblocks/pull/4645)
 
-- 📂 **Other Open Source Efforts:**  
-  [Code4GovTech Open Source Efforts Repo](https://github.com/harleenkaur2003/code4govtech-open-source-effort)
-
 ---
 
 ## 🛠 Skills
