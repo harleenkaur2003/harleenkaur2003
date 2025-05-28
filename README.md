@@ -2,7 +2,6 @@
 
 Hi! I am a passionate developer eager to build meaningful software solutions that positively impact people.  
 Currently pursuing B.Tech in Information Technology from Delhi Technological University (Batch of 2026).  
-I enjoy working on frontend development, accessibility, and open-source contributions.
 
 ---
 
@@ -20,7 +19,6 @@ I enjoy working on frontend development, accessibility, and open-source contribu
 - Python
 - Git & GitHub Open Source Workflow
 - Frontend Development
-- Accessibility Standards
 
 ---
 
